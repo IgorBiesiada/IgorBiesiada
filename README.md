@@ -19,6 +19,14 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
+### 🔌 APIs & Libraries (basic knowledge):
+- **Stripe API** (payments)
+- **Perspective API** (content moderation)
+- **Geocoding API** (maps & locations)
+- **SendGrid API** (email service)
+- **Leaflet.js** (interactive maps)
+- **Bootstrap** (frontend framework)
+
 ### 🎨 Frontend (basic knowledge):
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
