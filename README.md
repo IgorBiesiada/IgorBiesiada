@@ -42,23 +42,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorBiesiada&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/IgorBiesiada/IgorBiesiada/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 📫 Contact Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/igorbiesiada" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/igor-biesiada-855b44335/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:xxxigorbiesiada1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IgorBiesiada&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
