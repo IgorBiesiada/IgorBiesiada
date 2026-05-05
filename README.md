@@ -25,4 +25,4 @@ I focus on building my skills every day and understanding how things work in pra
 ## 📫 Contact
 
 📧 biesiadaigor9@gmail.com 
-💼 linkedin.com/in/igor-biesiada-855b44335
+
